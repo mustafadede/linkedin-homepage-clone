@@ -139,7 +139,7 @@ li {
 button.ref {
   border: none;
   color: white;
-  background-color: #eef3f8;
+  
 }
 
 .post-button {
@@ -147,6 +147,7 @@ button.ref {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     color: #5f5f5f;
+    background-color: transparent;
 }
 
 .bootstrap-bıktım-bootstrap-daraldım-bootstrap {
@@ -155,6 +156,8 @@ button.ref {
 
 button.ref:hover {
   color: #5f5f5f;
+  background-color: #eef3f8;
+  border-radius: 5px;
 }
 
 .postphoto {
